@@ -1,0 +1,52 @@
+.master{
+    height: 5pc;
+    width: 8pc;
+    margin-left: 5pc;
+    margin-right: 8pc;
+}
+.navi{
+    margin-left: 1pc;
+}
+.slide{
+    width: auto;
+    height: 40pc;
+}
+.img1{
+
+    margin-top: 2pc;
+}
+.img2{
+    margin-left: 5pc;
+    margin-right: 5pc;
+}
+
+.cont{
+    margin-top: 5pc;
+    width: 100%;
+}
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .fa:hover {
+    opacity: 0.7;
+  }
+   .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-instagram {
+    background: blueviolet;
+    color: white;
+  }
+  .fa-google {
+    background: white;
+    color: red;
+  }

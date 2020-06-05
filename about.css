@@ -1,0 +1,30 @@
+.master{
+    height: 5pc;
+    width: 8pc;
+    margin-left: 5pc;
+    margin-right: 8pc;
+}
+.navi{
+    margin-left: 1pc;
+}
+.carpet5{
+    height: 40pc;
+    width: 100%;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .centered {
+    position: absolute;
+    font-weight: bolder;
+    font-size: xx-large;
+    color: seashell;
+    bottom: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .abtpic1{
+      width: 100%;
+  }
